@@ -1,0 +1,91 @@
+{
+  "company": "AI Solutions Pvt Ltd",
+  "founded_year": 2022,
+  "location": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "departments": [
+    {
+      "department_name": "Machine Learning",
+      "employees": [
+        {
+          "id": 101,
+          "name": "Aryan Upadhyay",
+          "role": "ML Engineer",
+          "skills": [
+            "Python",
+            "Scikit-learn",
+            "TensorFlow",
+            "MLOps"
+          ],
+          "projects": [
+            {
+              "project_name": "Food Delivery Time Prediction",
+              "status": "Completed",
+              "accuracy": 92.5
+            },
+            {
+              "project_name": "Twitter Sentiment Analysis",
+              "status": "In Progress",
+              "accuracy": 88.3
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Rahul Sharma",
+          "role": "Data Scientist",
+          "skills": [
+            "Pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "projects": [
+            {
+              "project_name": "Customer Churn Prediction",
+              "status": "Completed",
+              "accuracy": 90.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department_name": "Generative AI",
+      "employees": [
+        {
+          "id": 201,
+          "name": "Priya Verma",
+          "role": "LLM Engineer",
+          "skills": [
+            "LangChain",
+            "Transformers",
+            "Hugging Face",
+            "RAG"
+          ],
+          "projects": [
+            {
+              "project_name": "PDF Chatbot",
+              "status": "Completed"
+            },
+            {
+              "project_name": "AI Resume Analyzer",
+              "status": "In Progress"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "technologies_used": [
+    "Python",
+    "Docker",
+    "Kubernetes",
+    "MLflow",
+    "DVC"
+  ],
+  "active_clients": 15,
+  "remote_work": true
+}
