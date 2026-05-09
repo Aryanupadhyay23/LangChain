@@ -8,3 +8,7 @@ arxiv
 fitz
 pymupdf
 langchain-text-splitters
+langchain-openai
+chromadb
+sentence-transformers
+langchain-huggingface
