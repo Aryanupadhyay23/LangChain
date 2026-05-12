@@ -20,3 +20,8 @@ langchain_core
 fastapi
 uvicorn
 langserve
+langchain-ollama 
+langchain-text-splitters 
+torchvision 
+torch 
+transformers
