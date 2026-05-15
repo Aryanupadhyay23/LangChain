@@ -1,0 +1,23 @@
+{
+    "title":"student",
+    "description":"scehma about students",
+    "type":"object",
+    "properties":{
+        "name":{
+            "type":"string"
+        },
+        "age":{
+            "type":"integer"
+        },
+        "email":{
+            "type":"string",
+            "format":"email"
+        },
+        "cgpa":{
+            "type":"number",
+            "minimum":0.0,
+            "maximum":10.0
+        }
+    },
+    "required":["email"]
+}
