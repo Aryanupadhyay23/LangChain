@@ -25,3 +25,13 @@ langchain-text-splitters
 torchvision 
 torch 
 transformers
+langchain 
+langchain-google-genai 
+google-generativeai 
+python-dotenv
+PyPDF
+langchain 
+langchain-community 
+langchain-experimental 
+ollama
+langchain-ollama
